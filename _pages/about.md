@@ -171,7 +171,7 @@ European Conference on Computer Vision (**ECCV**), 2022.<br>
 <a href="https://drive.google.com/file/d/1jSeM5daC68_JMinZdLjwoOdtvAQlITnH/view?usp=sharing" class="click_button"><img src="../images/icon/poster.png">Poster</a>
 
 
-* **<u>Semantic-Sparse Colorization Network for Deep Exemplar-based Colorization</u><br>
+* **<u>Semantic-Sparse Colorization Network for Deep Exemplar-based Colorization</u>**<br>
 Yunpeng Bai, Chao Dong, **<u>Zenghao Chai</u>**, Andong Wang, Zhengzhuo Xu, Chun Yuan.<br>
 European Conference on Computer Vision (**ECCV**), 2022.<br>
 <a href="https://arxiv.org/abs/2112.01335" class="click_button"><img src="../images/icon/arxiv.png">arXiv</a>
