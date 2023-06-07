@@ -50,7 +50,7 @@ redirect_from:
 </style>
 
 ## Biography
-I am an incoming Ph.D. student in Computer Science at [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/), fully supported by President's Graduate Fellowship. Recently, I received my Master degree in Computer Technology at [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), supervised by Prof. [Chun Yuan](https://www.sigs.tsinghua.edu.cn/yc2_en/main.htm). My research interests are in Computer Vision and Computer Graphics. Before that, I received my Bachelor degree in Software Engineering from [School of Computer Science & Technology](https://cs.bit.edu.cn), [Beijing Institute of Technology](https://english.bit.edu.cn/). 
+I am an incoming Ph.D. student in Computer Science at [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://nus.edu.sg/), fully supported by President's Graduate Fellowship. I received my Master degree in Computer Technology at [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), supervised by Prof. [Chun Yuan](https://www.sigs.tsinghua.edu.cn/yc2_en/main.htm). My research interests are in Computer Vision and Computer Graphics. Before that, I received my Bachelor degree in Software Engineering from [School of Computer Science & Technology](https://cs.bit.edu.cn), [Beijing Institute of Technology](https://english.bit.edu.cn/). 
 
 Click [here](../files/Zenghao_Chai_CV.pdf) to find my up-to-date CV.
 
@@ -58,7 +58,7 @@ Click [here](../files/Zenghao_Chai_CV.pdf) to find my up-to-date CV.
 <div class="flex-between">
   <ul>
   <li>2023.08 - 2027.07 (Expected)</li>
-  - Ph.D. Candidate in Computer Science at <a href="https://www.comp.nus.edu.sg/">School of Computing</a>, <a href="https://nus.edu.sg/">National University of Singapore</a>.<br>
+  - Ph.D. Student in Computer Science at <a href="https://www.comp.nus.edu.sg/">School of Computing</a>, <a href="https://nus.edu.sg/">National University of Singapore</a>.<br>
   - Research Topics: Computer Vision, Computer Graphics, Multimedia, Machine Learning.
   </ul>
   <img class="badge3" src="../images/nus.png">
