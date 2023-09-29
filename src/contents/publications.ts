@@ -3,7 +3,14 @@ const publications = [
     title: 'Towards Effective Collaborative Learning in Long-Tailed Recognition',
     authors: 'Zhengzhuo Xu*, Zenghao Chai*, Chengyin Xu, Chun Yuan, Haiqin Yang',
     pub: 'IEEE Transactions on Multimedia (TMM), 2023.',
-    resources: [{ link: 'https://arxiv.org/abs/2305.03378', label: 'arXiv', icon: 'arxiv' }]
+    resources: [
+      { link: 'https://arxiv.org/abs/2305.03378', label: 'arXiv', icon: 'arxiv' },
+      {
+        link: 'https://ieeexplore.ieee.org/document/10250973',
+        label: 'IEEE',
+        icon: 'ieee'
+      }
+    ]
   },
   {
     title: 'HiFace: High-Fidelity 3D Face Reconstruction by Learning Static and Dynamic Details',
@@ -12,7 +19,22 @@ const publications = [
     pub: 'IEEE/CVF International Conference on Computer Vision (ICCV), 2023.',
     resources: [
       { link: 'https://arxiv.org/abs/2303.11225', label: 'arXiv', icon: 'arxiv' },
-      { link: 'https://project-hiface.github.io/', label: 'Page', icon: 'home' }
+      { link: 'https://project-hiface.github.io/', label: 'Page', icon: 'home' },
+      {
+        link: 'https://openaccess.thecvf.com/content/ICCV2023/papers/Chai_HiFace_High-Fidelity_3D_Face_Reconstruction_by_Learning_Static_and_Dynamic_ICCV_2023_paper.pdf',
+        label: 'PDF',
+        icon: 'pdf'
+      },
+      {
+        link: 'https://openaccess.thecvf.com/content/ICCV2023/supplemental/Chai_HiFace_High-Fidelity_3D_ICCV_2023_supplemental.pdf',
+        label: 'Supplementary',
+        icon: 'supp'
+      },
+      {
+        link: 'https://project-hiface.github.io/img/ICCV%2023-HiFace-Poster.pdf',
+        label: 'Poster',
+        icon: 'poster'
+      }
     ]
   },
   {
