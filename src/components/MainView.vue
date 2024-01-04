@@ -5,12 +5,13 @@
       <p class="biography">
         I am currently a Ph.D. student in Computer Science at
         <a href="https://www.comp.nus.edu.sg/">School of Computing</a>,
-        <a href="https://nus.edu.sg/">National University of Singapore</a>, fully supported by
-        President’s Graduate Fellowship. Prior to join NUS, I received M.Eng in Computer Technology at
+        <a href="https://nus.edu.sg/">National University of Singapore</a>, supervised by Prof.
+        <a href="https://scholar.google.com/citations?user=6Lx_eowAAAAJ">Mohan Kankanhalli</a> and supported by
+        President's Graduate Fellowship. Prior to join NUS, I received M.Eng in Computer Technology at
         <a href="https://www.sigs.tsinghua.edu.cn/en/"
           >Tsinghua Shenzhen International Graduate School</a
         >, <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, supervised by Prof.
-        <a href="https://www.sigs.tsinghua.edu.cn/yc2_en/main.htm">Chun Yuan</a>.  Before that, I received B.Eng in Software Engineering from
+        <a href="https://scholar.google.com/citations?user=fYdxi2sAAAAJ">Chun Yuan</a>.  Before that, I received B.Eng in Software Engineering from
         <a href="https://cs.bit.edu.cn">School of Computer Science &amp; Technology</a>,
         <a href="https://english.bit.edu.cn/">Beijing Institute of Technology</a>.
       </p>

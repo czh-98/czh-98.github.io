@@ -10,9 +10,16 @@ const educations = [
         'Ph.D. Student in Computer Science at ',
         ['School of Computing', 'link', 'https://www.comp.nus.edu.sg/'],
         ', ',
-        ['National University of Singapore.', 'link', 'https://nus.edu.sg/']
+        ['National University of Singapore.', 'link', 'https://nus.edu.sg/'],
+        ', supervised by ',
+        [
+          'Prof. Mohan Kankanhalli',
+          'link',
+          'https://scholar.google.com/citations?user=6Lx_eowAAAAJ'
+        ],
+        '.'
       ],
-      ['Research Topics: Computer Vision, Computer Graphics, Multimedia, Machine Learning.']
+      ['Research Topics: Computer Vision, Computer Graphics, Multimedia.']
     ],
     logo: nusLogo
   },
