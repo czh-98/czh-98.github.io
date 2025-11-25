@@ -13,7 +13,7 @@ const patents = [
   },
   {
     authors: 'Chun Yuan, Zenghao Chai, Zhengzhuo Xu',
-    info: 'A Lightweight Fine-grained Spatiotemporal Predictive Method and System. Invention patent. Published Application Number: CN114445463A. 2022.'
+    info: 'A Lightweight Fine-grained Spatiotemporal Predictive Method and System. Invention patent. Authorization Announcement Number: CN114445463B. 2022.'
   },
   {
     authors: 'Chongyang Shi, Zhaohe Liao, Zenghao Chai',

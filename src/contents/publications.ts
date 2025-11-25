@@ -1,5 +1,54 @@
 const publications = [
   {
+    title: 'Breaking the Curse of Knowledge: Towards Effective Multimodal Recommendation using Knowledge Soft Integration',
+    authors: 'Kai Ouyang, Chen Tang, Zenghao Chai, Wenhao Zheng, Xiangjin Xie, Xuanji Xiao, Zhi Wang',
+    pub: 'IEEE Transactions on Multimedia (TMM), 2025.',
+    resources: [
+      { link: 'https://arxiv.org/abs/2305.07419', label: 'arXiv', icon: 'arxiv' },
+    ]
+  },
+  {
+    title: 'Boosting Long-tailed Recognition with Label Descriptor and Beyond',
+    authors: 'Zhengzhuo Xu, Ruikang Liu, Zenghao Chai, Yiyan Qi, Lei Li, Haiqin Yang, Chun Yuan',
+    pub: 'IEEE Transactions on Multimedia (TMM), 2025.',
+    resources: [
+      {
+        link: 'https://ieeexplore.ieee.org/abstract/document/11154136',
+        label: 'IEEE',
+        icon: 'ieee'
+      }
+    ]
+  },
+  {
+    title: 'PRANCE: Joint Token-Optimization and Structural Channel-Pruning for Adaptive ViT Inference',
+    authors: 'Ye Li, Chen Tang, Yuan Meng, Jiajun Fan, Zenghao Chai, Xinzhu Ma, Zhi Wang, Wenwu Zhu',
+    pub: 'IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025.',
+    resources: [
+      { link: 'https://arxiv.org/abs/2407.05010', label: 'arXiv', icon: 'arxiv' },
+      { link: 'https://github.com/ChildTang/PRANCE', label: 'Github', icon: 'github' },
+      {
+        link: 'https://ieeexplore.ieee.org/abstract/document/11146899',
+        label: 'IEEE',
+        icon: 'ieee'
+      }
+    ]
+  },
+  {
+    title: 'STAR: Skeleton-aware Text-based 4D Avatar Generation with In-network Motion Retargeting',
+    authors: 'Zenghao Chai, Chen Tang, Yongkang Wong, Mohan Kankanhalli',
+    pub: 'IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025.',
+    resources: [
+      { link: 'https://arxiv.org/abs/2406.04629', label: 'arXiv', icon: 'arxiv' },
+      { link: 'https://star-avatar.github.io', label: 'Page', icon: 'home' },
+      { link: 'https://github.com/czh-98/STAR', label: 'Github', icon: 'github' },
+      {
+        link: 'https://ieeexplore.ieee.org/abstract/document/10962328',
+        label: 'IEEE',
+        icon: 'ieee'
+      }
+    ]
+  },
+  {
     title: 'Towards Effective Collaborative Learning in Long-Tailed Recognition',
     authors: 'Zhengzhuo Xu*, Zenghao Chai*, Chengyin Xu, Chun Yuan, Haiqin Yang',
     pub: 'IEEE Transactions on Multimedia (TMM), 2023.',
