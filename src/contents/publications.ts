@@ -1,5 +1,15 @@
 const publications = [
   {
+    title: 'MimiCAT: Mimic with Correspondence-Aware Cascade-Transformer for Category-Free 3D Pose Transfer',
+    authors: 'Zenghao Chai, Chen Tang, Yongkang Wong, Xulei Yang, Mohan Kankanhalli',
+    pub: 'arXiv, 2025.',
+    resources: [
+      { link: 'https://arxiv.org/abs/2511.18370', label: 'arXiv', icon: 'arxiv' },
+      { link: 'https://mimicat3d.github.io/', label: 'Page', icon: 'home' },
+      { link: 'https://github.com/czh-98/MimiCAT', label: 'Github', icon: 'github' },
+    ]
+  },
+  {
     title: 'Breaking the Curse of Knowledge: Towards Effective Multimodal Recommendation using Knowledge Soft Integration',
     authors: 'Kai Ouyang, Chen Tang, Zenghao Chai, Wenhao Zheng, Xiangjin Xie, Xuanji Xiao, Zhi Wang',
     pub: 'IEEE Transactions on Multimedia (TMM), 2025.',
