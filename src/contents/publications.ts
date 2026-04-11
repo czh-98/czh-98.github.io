@@ -2,7 +2,7 @@ const publications = [
   {
     title: 'MimiCAT: Mimic with Correspondence-Aware Cascade-Transformer for Category-Free 3D Pose Transfer',
     authors: 'Zenghao Chai, Chen Tang, Yongkang Wong, Xulei Yang, Mohan Kankanhalli',
-    pub: 'arXiv, 2025.',
+    pub: 'IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026.',
     resources: [
       { link: 'https://arxiv.org/abs/2511.18370', label: 'arXiv', icon: 'arxiv' },
       { link: 'https://mimicat3d.github.io/', label: 'Page', icon: 'home' },
