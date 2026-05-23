@@ -7,6 +7,11 @@ const publications = [
       { link: 'https://arxiv.org/abs/2511.18370', label: 'arXiv', icon: 'arxiv' },
       { link: 'https://mimicat3d.github.io/', label: 'Page', icon: 'home' },
       { link: 'https://github.com/czh-98/MimiCAT', label: 'Github', icon: 'github' },
+        {
+        link: 'https://mimicat3d.github.io/static/images/MimiCAT_CVPR2026_poster.pdf',
+        label: 'Poster',
+        icon: 'poster'
+      }
     ]
   },
   {
