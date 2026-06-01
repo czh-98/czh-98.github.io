@@ -7,7 +7,17 @@ const publications = [
       { link: 'https://arxiv.org/abs/2511.18370', label: 'arXiv', icon: 'arxiv' },
       { link: 'https://mimicat3d.github.io/', label: 'Page', icon: 'home' },
       { link: 'https://github.com/czh-98/MimiCAT', label: 'Github', icon: 'github' },
-        {
+      {
+        link: 'https://openaccess.thecvf.com/content/CVPR2026/papers/Chai_MimiCAT_Mimic_with_Correspondence-Aware_Cascade-Transformer_for_Category-Free_3D_Pose_Transfer_CVPR_2026_paper.pdf',
+        label: 'PDF',
+        icon: 'pdf'
+      },
+      {
+        link: 'https://openaccess.thecvf.com/content/CVPR2026/supplemental/Chai_MimiCAT_Mimic_with_CVPR_2026_supplemental.pdf',
+        label: 'Supplementary',
+        icon: 'supp'
+      },
+      {
         link: 'https://mimicat3d.github.io/static/images/MimiCAT_CVPR2026_poster.pdf',
         label: 'Poster',
         icon: 'poster'
